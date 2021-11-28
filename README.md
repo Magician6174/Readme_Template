@@ -151,7 +151,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Magician6174 - [My Email](mailto:himanshumagician@gmail.com)
+Magician6174 - [My Email](mailto:himanshumagician@gmail.com "himanshumagician@gmail.com")
 
 Project Link: [Readme_Template](https://github.com/Magician6174/Readme_Template)
 
