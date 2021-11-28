@@ -176,7 +176,7 @@ Project Link: [Readme_Template](https://github.com/Magician6174/Readme_Template)
 [issues-shield]: https://img.shields.io/github/issues/Magician6174/Readme_Template.svg?label=ISSUES&logo=GITHUB&style=flat-square
 [issues-url]: https://github.com/Magician6174/Readme_Template/issues
 [license-shield]: https://img.shields.io/github/license/Magician6174/Readme_Template.svg?label=LICENSE&logo=github
-[license-url]: https://github.com/Magician6174/Readme_Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/Magician6174/Readme_Template/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/himanshu-sharma-39689b205/
 [product-screenshot]: images/screenshot.png
