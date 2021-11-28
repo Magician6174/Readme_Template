@@ -160,7 +160,7 @@ Project Link: [Readme_Template](https://github.com/Magician6174/Readme_Template)
 
 * [Othneil Drew](https://github.com/othneildrew)
 * [Img Shields](https://shields.io)
-* [:relieved:]()
+* :relieved:
 
  
 <p align="right">(<a href="#top">back to top</a>)</p>
