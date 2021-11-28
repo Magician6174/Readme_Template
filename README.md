@@ -85,7 +85,7 @@ To get a local copy up and running follow these simple example steps.
 
 Clone the repository into a local machine using
 ```shell
-git clone https://github.com/Magician6174/bleh-ble-bleh
+git clone https://github.com/Magician6174/Readme_Template.git
 ```
 
 ### Prerequisites
