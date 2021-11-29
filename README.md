@@ -169,7 +169,7 @@ Project Link: [Readme_Template](https://github.com/Magician6174/Readme_Template)
 [contributors-url]: https://github.com/Magician6174/Readme_template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Magician6174/Readme_Template?label=FORKS&logo=GITHUB&style=flat-square
 [forks-url]: https://github.com/Magician6174/Readme_Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/Magician6174/Readme_Template?label=STARS&logo=github&style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/Magician6174/Readme_Template.svg?label=STARS&logo=github&style=flat-square
 [stars-url]: https://github.com/Magician6174/Readme_Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Magician6174/Readme_Template?label=ISSUES&logo=GITHUB&style=flat-square
 [issues-url]: https://github.com/Magician6174/Readme_Template/issues
