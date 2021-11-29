@@ -2,7 +2,7 @@
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+[![GitHub Repo stars](https://img.shields.io/github/stars/Magician6174/Readme_Template?logo=github&style=flat-square)][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -164,8 +164,6 @@ Project Link: [Readme_Template](https://github.com/Magician6174/Readme_Template)
 
  
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 [contributors-shield]: https://img.shields.io/github/contributors/Magician6174/Readme_Template.svg?label=CONTRIBUTORS&logo=github&style=flat-square
 [contributors-url]: https://github.com/Magician6174/Readme_template/graphs/contributors
